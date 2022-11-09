@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Bláster de bolsillo",
+    "category": "Blásteres",
+    "skill": "Armas a distancia ligeras",
+    "damage": 5,
+    "critical": 4,
+    "range": "Corto",
+    "price": 200,
+    "special": [
+      "Fijar para aturdir"
+    ]
+  },
+  {
+    "name": "Pistola bláster ligera",
+    "category": "Blásteres",
+    "skill": "Armas a distancia ligeras",
+    "damage": 5,
+    "critical": 4,
+    "range": "Medio",
+    "price": 300,
+    "special": [
+      "Fijar para aturdir"
+    ]
+  },
+  {
+    "name": "Pistola bláster",
+    "category": "Blásteres",
+    "skill": "Armas a distancia ligeras",
+    "damage": 6,
+    "critical": 3,
+    "range": "Medio",
+    "price": 400,
+    "special": [
+      "Fijar para aturdir"
+    ]
+  },
+  {
+    "name": "Pistola bláster pesada",
+    "category": "Blásteres",
+    "skill": "Armas a distancia ligeras",
+    "damage": 7,
+    "critical": 3,
+    "range": "Medio",
+    "price": 700,
+    "special": [
+      "Fijar para aturdir"
+    ]
+  },
+  {
+    "name": "Carabina bláster",
+    "category": "Blásteres",
+    "skill": "Armas a distancia pesadas",
+    "damage": 9,
+    "critical": 3,
+    "range": "Medio",
+    "price": 850,
+    "special": [
+      "Fijar para aturdir"
+    ]
+  },
+  {
+    "name": "Fusíl bláster",
+    "category": "Blásteres",
+    "skill": "Armas a distancia pesadas",
+    "damage": 9,
+    "critical": 3,
+    "range": "Largo",
+    "price": 900,
+    "special": [
+      "Fijar para aturdir"
+    ]
+  },
+  {
+    "name": "Bláster pesado de repetición",
+    "category": "Blásteres",
+    "skill": "Artillería",
+    "damage": 15,
+    "critical": 2,
+    "range": "Largo",
+    "price": 6000,
+    "special": [
+      "Aparatosa 5",
+      "Automática",
+      "Perforante 2"
+    ]
+  },
+  {
+    "name": "Fusíl disrruptor",
+    "category": "Blásteres",
+    "skill": "Armas a distancia pesadas",
+    "damage": 10,
+    "critical": 2,
+    "range": "Largo",
+    "price": 5000,
+    "special": [
+      "Aparatosa 2",
+      "Perforante 5"
+    ]
+  },
+  {
+    "name": "Granada de fragmentación",
+    "category": "Explosivos",
+    "skill": "Armas a distancia ligeras",
+    "damage": 8,
+    "critical": 4,
+    "range": "Corto",
+    "price": 50,
+    "special": [
+      "Explosión 6",
+      "Munición limitada 1"
+    ]
+  },
+  {
+    "name": "Granada aturdidora",
+    "category": "Explosivos",
+    "skill": "Armas a distancia ligeras",
+    "damage": 8,
+    "critical": 0,
+    "range": "Corto",
+    "price": 75,
+    "special": [
+      "Daño de aturdimiento",
+      "Desorientación 3",
+      "Explosión 8",
+      "Munición limitada 1"
+    ]
+  },
+  {
+    "name": "Granada perforante",
+    "category": "Explosivos",
+    "skill": "Armas a distancia ligeras",
+    "damage": 16,
+    "critical": 3,
+    "range": "Corto",
+    "price": 100,
+    "special": [
+      "Perforante 5"
+    ]
+  },
+  {
+    "name": "Nudilleras",
+    "category": "Armas de pelea",
+    "skill": "Pelea",
+    "damage": 1,
+    "critical": 4,
+    "range": "Interacción",
+    "price": 25,
+    "special": [
+      "Desorientación 3"
+    ]
+  },
+  {
+    "name": "Cuchillo de combate",
+    "category": "Armas cuerpo a cuerpo",
+    "skill": "Armas cuerpo a cuerpo",
+    "damage": 1,
+    "critical": 3,
+    "range": "Interacción",
+    "price": 25,
+    "special": [
+      "-"
+    ]
+  },
+  {
+    "name": "Pica de fuerza",
+    "category": "Armas cuerpo a cuerpo",
+    "skill": "Armas cuerpo a cuerpo",
+    "damage": 3,
+    "critical": 3,
+    "range": "Interacción",
+    "price": 500,
+    "special": [
+      "Fijar para aturdir",
+      "Perforante 2"
+    ]
+  },
+  {
+    "name": "Porra",
+    "category": "Armas cuerpo a cuerpo",
+    "skill": "Armas cuerpo a cuerpo",
+    "damage": 2,
+    "critical": 5,
+    "range": "Interacción",
+    "price": 15,
+    "special": [
+      "Desorientación 2"
+    ]
+  },
+  {
+    "name": "Vibrocuchillo",
+    "category": "Armas cuerpo a cuerpo",
+    "skill": "Armas cuerpo a cuerpo",
+    "damage": 1,
+    "critical": 2,
+    "range": "Interacción",
+    "price": 250,
+    "special": [
+      "Perforante 2"
+    ]
+  }
+]
