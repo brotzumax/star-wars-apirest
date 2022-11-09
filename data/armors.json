@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ropa gruesa",
+    "defense": 0,
+    "protection": 1
+  },
+  {
+    "name": "Blindaje acolchado",
+    "defense": 0,
+    "protection": 2
+  },
+  {
+    "name": "Ropa blindada",
+    "defense": 1,
+    "protection": 1
+  },
+  {
+    "name": "Blindaje pesado de combate",
+    "defense": 1,
+    "protection": 2
+  }
+]

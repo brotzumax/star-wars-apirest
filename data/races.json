@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Bothan",
+    "fortaleza": 1,
+    "agilidad": 2,
+    "intelecto": 2,
+    "astucia": 3,
+    "voluntad": 2,
+    "presencia": 2,
+    "special": [
+      {
+        "name": "Actitud convincente",
+        "description": "Como Bothan, tienes el talento de Actitud convincente. Elimina un dado de Complicación de la reserva de dados en todas tus tiradas de Engaño y Actividad criminal."
+      }
+    ]
+  },
+  {
+    "name": "Humano",
+    "fortaleza": 2,
+    "agilidad": 2,
+    "intelecto": 2,
+    "astucia": 2,
+    "voluntad": 2,
+    "presencia": 2,
+    "special": []
+  },
+  {
+    "name": "Mon Calamari",
+    "fortaleza": 2,
+    "agilidad": 2,
+    "intelecto": 3,
+    "astucia": 1,
+    "voluntad": 2,
+    "presencia": 2,
+    "special": [
+      {
+        "name": "Anfibio",
+        "description": "Puede respirar bajo el agua y moverse sin penalización al nadar."
+      }
+    ]
+  },
+  {
+    "name": "Duros",
+    "fortaleza": 1,
+    "agilidad": 2,
+    "intelecto": 3,
+    "astucia": 2,
+    "voluntad": 2,
+    "presencia": 2,
+    "special": []
+  }
+]

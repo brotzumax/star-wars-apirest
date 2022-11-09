@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Inyectores de estimulantes",
+    "description": "Lleva a cabo una maniobra para utilizar uno y curar 4 Heridas a una criatura viva. Se gasta al usarlo.",
+    "spentable": true
+  },
+  {
+    "name": "Comunicador",
+    "description": "Permite la comunicación entre personajes provistos de comunicadores.",
+    "spentable": false
+  },
+  {
+    "name": "Comunicador de largo alcance",
+    "description": "Permite la comunicación entre personajes provistos de comunicadores a mucha más distancia de lo habitual.",
+    "spentable": false
+  },
+  {
+    "name": "Mascarilla respiratoria",
+    "description": "Puedes respirar normalmente con humo, gas o bajo el agua.",
+    "spentable": false
+  },
+  {
+    "name": "Barra luminosa",
+    "description": "Luces brillantes para señalizar o iluminar.",
+    "spentable": false
+  },
+  {
+    "name": "Electrogafas",
+    "description": "Ves objetos en la distancia aunque esté oscuro o haya humo u otros obstáculos.",
+    "spentable": false
+  },
+  {
+    "name": "Visor nocturno",
+    "description": "Elimina las penalizaciones impuestas por la obscuridad.",
+    "spentable": false
+  },
+  {
+    "name": "Holocom",
+    "description": "Permite establecer comunicación audiovisual con otros que tengan comunicadores.",
+    "spentable": false
+  },
+  {
+    "name": "Elementos de disfraz",
+    "description": "Para alterar tu apariencia y aparentar ser otro con una tirada de Engaño.",
+    "spentable": false
+  },
+  {
+    "name": "Módulo de datos",
+    "description": "Computadora de mano que almacena propaganda de la Rebelión.",
+    "spentable": false
+  },
+  {
+    "name": "Linterna de fusión",
+    "description": "Emite una luz brillante y proporciona energía para dispositivos electrónicos.",
+    "spentable": false
+  },
+  {
+    "name": "Módulo de datos y herramientas",
+    "description": "Computadora manual con accesorios que permiten acceder a computadoras y sistemas de seguridad.",
+    "spentable": false
+  },
+  {
+    "name": "Medpac",
+    "description": "Te permite curar a seres vivos utilizando la habilidad Medicina",
+    "spentable": false
+  },
+  {
+    "name": "Equipo de comunicaciones",
+    "description": "Permite la comunicación entre personajes provistos de comunicadores y el uso de la habilidad Computadoras para interferir o interceptar transmisiones ajenas.",
+    "spentable": false
+  },
+  {
+    "name": "Ganzúa electrónica",
+    "description": "Te permite forzar cerraduras mecánicas y electrónicas usando la habilidad Actividad criminal.",
+    "spentable": false
+  }
+]
