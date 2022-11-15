@@ -1,52 +1,142 @@
 [
   {
     "name": "Bothan",
-    "fortaleza": 1,
-    "agilidad": 2,
-    "intelecto": 2,
-    "astucia": 3,
-    "voluntad": 2,
-    "presencia": 2,
+    "injury": 10,
+    "tension": 11,
+    "features": [
+      {
+        "name": "Fortaleza",
+        "value": 1
+      },
+      {
+        "name": "Agilidad",
+        "value": 2
+      },
+      {
+        "name": "Intelecto",
+        "value": 2
+      },
+      {
+        "name": "Astucia",
+        "value": 3
+      },
+      {
+        "name": "Voluntad",
+        "value": 2
+      },
+      {
+        "name": "Presencia",
+        "value": 2
+      }
+    ],
     "special": [
       {
         "name": "Actitud convincente",
-        "description": "Como Bothan, tienes el talento de Actitud convincente. Elimina un dado de Complicación de la reserva de dados en todas tus tiradas de Engaño y Actividad criminal."
+        "source": "Raza (Bothan)",
+        "description": "Como Bothan, tienes el talento de Actitud convincente. Elimina un dado de Complicación <span className='fuentePdf'>b</span> de la reserva de dados en todas tus tiradas de Engaño y Actividad criminal."
       }
     ]
   },
   {
     "name": "Humano",
-    "fortaleza": 2,
-    "agilidad": 2,
-    "intelecto": 2,
-    "astucia": 2,
-    "voluntad": 2,
-    "presencia": 2,
+    "injury": 10,
+    "tension": 10,
+    "features": [
+      {
+        "name": "Fortaleza",
+        "value": 2
+      },
+      {
+        "name": "Agilidad",
+        "value": 2
+      },
+      {
+        "name": "Intelecto",
+        "value": 2
+      },
+      {
+        "name": "Astucia",
+        "value": 2
+      },
+      {
+        "name": "Voluntad",
+        "value": 2
+      },
+      {
+        "name": "Presencia",
+        "value": 2
+      }
+    ],
     "special": []
   },
   {
     "name": "Mon Calamari",
-    "fortaleza": 2,
-    "agilidad": 2,
-    "intelecto": 3,
-    "astucia": 1,
-    "voluntad": 2,
-    "presencia": 2,
+    "injury": 10,
+    "tension": 10,
+    "features": [
+      {
+        "name": "Fortaleza",
+        "value": 2
+      },
+      {
+        "name": "Agilidad",
+        "value": 2
+      },
+      {
+        "name": "Intelecto",
+        "value": 3
+      },
+      {
+        "name": "Astucia",
+        "value": 1
+      },
+      {
+        "name": "Voluntad",
+        "value": 2
+      },
+      {
+        "name": "Presencia",
+        "value": 2
+      }
+    ],
     "special": [
       {
         "name": "Anfibio",
+        "source": "Raza (Mon Calamari)",
         "description": "Puede respirar bajo el agua y moverse sin penalización al nadar."
       }
     ]
   },
   {
     "name": "Duros",
-    "fortaleza": 1,
-    "agilidad": 2,
-    "intelecto": 3,
-    "astucia": 2,
-    "voluntad": 2,
-    "presencia": 2,
+    "injury": 11,
+    "tension": 10,
+    "features": [
+      {
+        "name": "Fortaleza",
+        "value": 1
+      },
+      {
+        "name": "Agilidad",
+        "value": 2
+      },
+      {
+        "name": "Intelecto",
+        "value": 3
+      },
+      {
+        "name": "Astucia",
+        "value": 2
+      },
+      {
+        "name": "Voluntad",
+        "value": 2
+      },
+      {
+        "name": "Presencia",
+        "value": 2
+      }
+    ],
     "special": []
   }
 ]

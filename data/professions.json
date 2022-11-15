@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Comandante (Tutorial)",
+        "skills": [
+            "Alerta",
+            "Callejeo",
+            "Disciplina",
+            "Frialdad",
+            "Liderazgo",
+            "Percepción",
+            "Armas a distancia ligeras",
+            "Armas a distancia pesadas"
+        ],
+        "traits": []
+    },
+    {
+        "name": "Soldado (Tutorial)",
+        "skills": [
+            "Aguante",
+            "Atletismo",
+            "Coacción",
+            "Disciplina",
+            "Armas a distancia ligeras",
+            "Armas a distancia pesadas",
+            "Armas cuerpo a cuerpo",
+            "Artillería",
+            "Pelea"
+        ],
+        "traits": []
+    },
+    {
+        "name": "Diplomático (Tutorial)",
+        "skills": [
+            "Callejeo",
+            "Carisma",
+            "Conocimientos",
+            "Engaño",
+            "Negociación",
+            "Sigilo",
+            "Armas a distancia ligeras"
+        ],
+        "traits": []
+    },
+    {
+        "name": "Espía (Tutorial)",
+        "skills": [
+            "Computadoras",
+            "Coordinación",
+            "Frialdad",
+            "Medicina",
+            "Percepción",
+            "Pilotar",
+            "Sigilo",
+            "Supervivencia",
+            "Armas a distancia pesadas"
+        ],
+        "traits": []
+    }
+]

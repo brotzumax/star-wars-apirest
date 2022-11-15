@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Armas a distancia ligeras",
+    "feature": "Agilidad"
+  },
+  {
+    "name": "Armas a distancia pesadas",
+    "feature": "Agilidad"
+  },
+  {
+    "name": "Armas cuerpo a cuerpo",
+    "feature": "Fortaleza"
+  },
+  {
+    "name": "Artillería",
+    "feature": "Agilidad"
+  },
+  {
+    "name": "Pelea",
+    "feature": "Fortaleza"
+  }
+]

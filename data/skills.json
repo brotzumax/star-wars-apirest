@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Actividad Criminal",
+    "feature": "Astucia"
+  },
+  {
+    "name": "Aguante",
+    "feature": "Fortaleza"
+  },
+  {
+    "name": "Alerta",
+    "feature": "Voluntad"
+  },
+  {
+    "name": "Astronavegación",
+    "feature": "Intelecto"
+  },
+  {
+    "name": "Atletismo",
+    "feature": "Fortaleza"
+  },
+  {
+    "name": "Callejeo",
+    "feature": "Astucia"
+  },
+  {
+    "name": "Carisma",
+    "feature": "Presencia"
+  },
+  {
+    "name": "Coacción",
+    "feature": "Voluntad"
+  },
+  {
+    "name": "Computadoras",
+    "feature": "Intelecto"
+  },
+  {
+    "name": "Conocimientos",
+    "feature": "Intelecto"
+  },
+  {
+    "name": "Coordinación",
+    "feature": "Agilidad"
+  },
+  {
+    "name": "Disciplina",
+    "feature": "Voluntad"
+  },
+  {
+    "name": "Engaño",
+    "feature": "Astucia"
+  },
+  {
+    "name": "Frialdad",
+    "feature": "Presencia"
+  },
+  {
+    "name": "Liderazgo",
+    "feature": "Presencia"
+  },
+  {
+    "name": "Mecánica",
+    "feature": "Intelecto"
+  },
+  {
+    "name": "Medicina",
+    "feature": "Intelecto"
+  },
+  {
+    "name": "Negociación",
+    "feature": "Presencia"
+  },
+  {
+    "name": "Percepción",
+    "feature": "Astucia"
+  },
+  {
+    "name": "Pilotar",
+    "feature": "Agilidad"
+  },
+  {
+    "name": "Sigilo",
+    "feature": "Agilidad"
+  },
+  {
+    "name": "Supervivencia",
+    "feature": "Astucia"
+  }
+]

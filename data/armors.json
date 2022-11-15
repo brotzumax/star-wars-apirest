@@ -1,5 +1,10 @@
 [
   {
+    "name": "Sin protección",
+    "defense": 0,
+    "protection": 0
+  },
+  {
     "name": "Ropa gruesa",
     "defense": 0,
     "protection": 1
