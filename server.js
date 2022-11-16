@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors')
 const fs = require('fs');
 
 
@@ -6,12 +7,12 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+
 app.use((req, res, next) => {
     res.setHeader("Access-Control-Allow-Origin", "*");
-    res.header(
-        "Access-Control-Allow-Headers",
-        "Origin, X-Requested-With, Content-Type, Accept"
-    );
+    res.setHeader("ngrok-skip-browser-warning", "5");
+    res.setHeader("Access-Control-Allow-Methods", "GET,PUT,POST,DELETE");
+    res.setHeader("Access-Control-Allow-Headers", "Content-Type");
     next();
 });
 
@@ -187,6 +188,8 @@ app.get("/:username/:nameCharacter", (req, res) => {
     const character = JSON.parse(fs.readFileSync(`./data/players/${username}/${nameCharacter}.json`, "utf-8"));
     res.json(character);
 });
+
+/* app.use(cors()); */
 
 const server = app.listen(8080, () => {
     console.log("Servidor escuchando en el puerto 8080");
